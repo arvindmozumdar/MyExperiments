@@ -3,7 +3,7 @@
 Hello World
 ==================================
 
-# Heading 2
+# If you're reading this, you're wasting your time
 ## Heading 3
 
 * list 1  
